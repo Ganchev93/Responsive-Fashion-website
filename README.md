@@ -1,1 +1,1 @@
-Hi
+Responsive Fashion website
